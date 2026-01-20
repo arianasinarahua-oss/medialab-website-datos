@@ -89,19 +89,19 @@
 
     <ul>
       <li>
-        <a href="https://github.com/Matecha28/medialab-website-datos/raw/main/data/posts_python_blog.csv">
+        <a href="https://github.com/arianasinarahua-oss/medialab-website-datos/raw/main/data/posts_python_blog.csv">
           Descargar: posts_python_blog.csv
         </a>
       </li>
 
       <li>
-        <a href="https://github.com/Matecha28/medialab-website-datos/raw/main/data/posts_python_blog_procesado.csv">
+        <a href="https://github.com/arianasinarahua-oss/medialab-website-datos/raw/main/data/posts_python_blog_procesado.csv">
           Descargar: posts_python_blog_procesado.csv
         </a>
       </li>
 
       <li>
-        <a href="https://github.com/Matecha28/medialab-website-datos/raw/main/data/top_palabras_titulos.csv">
+        <a href="https://github.com/arianasinarahua-oss/medialab-website-datos/raw/main/data/top_palabras_titulos.csv">
           Descargar: top_palabras_titulos.csv
         </a>
       </li>
